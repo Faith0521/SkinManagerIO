@@ -1,6 +1,6 @@
-# RX Skin IO Manager
+# Skin IO Manager
 
-RX Skin IO Manager is a skin weight management tool for Autodesk Maya.
+Skin IO Manager is a skin weight management tool for Autodesk Maya.
 
 This public version excludes components related to pymel, mGear, and all pipeline-related elements.
 
